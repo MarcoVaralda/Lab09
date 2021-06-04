@@ -231,7 +231,7 @@ public class Model {
 			cont++;
 		}
 		
-		// Stampo il risultato
+		// Stampo il risultato ottenuto
 		String risultato = "";
 		
 		if(visitati.isEmpty())
